@@ -1,41 +1,35 @@
-# Juniors Spring Intensive Deliverable Proposal
-
-## TODO: copy this file, fill it out, and push it up to your project's repo.
-
 Dates 3/16-3/25
 
-**My Name:** 
+**Genji Tapia:** 
 
 
-**Project Name:** 
+**Can Elis come outside to play 'Pitch Ready':** 
 
 
-**Is your project New or Old?**
+**Old Project?**
 
 
-**Is your project Solo or Team?**
+**Solo, but has had prior colaborators?**
 
 
 ## Description
 
-**Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
+**Codename 'Imaginary Friends' is a videogame inspired from a dream. Work started last summer, however some components in the game were created 1-2 years ago as a class project, some assets have been purchased, or created in colaboration with others. Since the project officially began, the game has developed from a crude prototype into a playable demo. Over spring break, the game has been played by former classmates, and one game design teacher. The current state of the game needs itteration into a playable prototype ready for pitching to potential invenstors.**
+**Gameplay consists of two scenes. The Overworld, where a player can traverse a map and visit key locations to 'Train' - Learn the games unique controls, 'Converse' - view the dialog engine, and how story is delivered to the player, and 'Battle' - A difficult battle intended to show off the complexities of combat, and a higher level of play that approaches mastery. The first scene transitions into the Combat scene, where a player experiences the dynamics of a unique battle system, and transitions back into the Overworld to create an endless game loop where the player is free to explore the game's potential.**
 
 ## Challenges I Anticipate
 
-**List out the challenges you anticipate for completing this project**
+**Time! Having the intensive divided between this project and building my MS portfolio creates a conflict of work flow**
 
 ## Skateboard
 
-**ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
-
-**Start coding and finish “Skateboard” feature before beginning “Bike”.** 
+**Integrating feedback received in the way of alternate game controlls from the one that the game currently uses. One feedback to follow-up on is to present the game with the new controlls to people who are very skilled at rhythm games, to see how they respond to the more favorable control scheme.**
 
 ## Bike
-**ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
+**Implement additional game-changing spells, such as the 'BOLT' spell that will leap unto nearby enemies**
 
 ## Car
-**ONE additional feature** 
-
+**Integrate the game with the Django feedback form for future gametesting** 
 
 ## Personal Achievement Goals:
 
@@ -43,33 +37,17 @@ Dates 3/16-3/25
 
 ### Teammate 1
 
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 2
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 3
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 4
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
+1. Add in the 'death/victory' delay before transitioning back to the Overworld scene
+2. Add in a 'death' animation for all player characters.
+3. Add in the themed transition which displays the games title image.
+4. Implement a different controller style where movement doesn't need to be 'confirmed' by an action
+5. Selectable option to remove 'stun lock' from the player characters, which prevents players actions unbuffered. (IE, you need to mash attack until you are able to do so.). Optionally, implement action buffering.
+6. Move on to 'Bike' tasks
 
 ## Wireframes
-
-**Insert wireframe pictures here**
-
+![Wireframe-Combat](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-WireFrame1.jpg)
+![Wireframe-Overworld](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-WireFrame2.jpg)
+![Wireframe-GameLoop](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-WireFrame3.jpg)
 
 ## Evaluation
 
@@ -87,13 +65,13 @@ Dates 3/16-3/25
 
 
 ## Approval Checklist
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
-- [ ] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
+- [X] If I have a team project, I wrote this proposal to represent my work and only my work
+- [X] I have completed all the necessary parts of this proposal
+- [X] I linked my proposal in the Spring Intensive Tracker
 
 ### Sign off
 
-**Student Name:**                
-> Name / Date
+**Student Name:**
+> Genji Tapia / 3-16-20
 **Make School Advisor Name**
 > TBD
