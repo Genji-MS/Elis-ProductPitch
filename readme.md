@@ -45,14 +45,9 @@ Dates 3/16-3/25
 6. Move on to 'Bike' tasks
 
 ## Wireframes
-Combat
 ![Wireframe-Combat](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-WireFrame1.jpg)
-
-Overworld
-![Wireframe-Overworld](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe2.jpg)
-
-GameLoop
-![Wireframe-GameLoop](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe3.jpg)
+![Wireframe-Overworld](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe2.png)
+![Wireframe-GameLoop](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe3.png)
 
 
 ## Evaluation
