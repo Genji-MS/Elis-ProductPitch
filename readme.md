@@ -15,6 +15,7 @@ Dates 3/16-3/25
 ## Description
 
 **Codename 'Imaginary Friends' is a videogame inspired from a dream. Work started last summer, however some components in the game were created 1-2 years ago as a class project, some assets have been purchased, or created in colaboration with others. Since the project officially began, the game has developed from a crude prototype into a playable demo. Over spring break, the game has been played by former classmates, and one game design teacher. The current state of the game needs itteration into a playable prototype ready for pitching to potential invenstors.**
+
 **Gameplay consists of two scenes. The Overworld, where a player can traverse a map and visit key locations to 'Train' - Learn the games unique controls, 'Converse' - view the dialog engine, and how story is delivered to the player, and 'Battle' - A difficult battle intended to show off the complexities of combat, and a higher level of play that approaches mastery. The first scene transitions into the Combat scene, where a player experiences the dynamics of a unique battle system, and transitions back into the Overworld to create an endless game loop where the player is free to explore the game's potential.**
 
 ## Challenges I Anticipate
@@ -45,8 +46,13 @@ Dates 3/16-3/25
 6. Move on to 'Bike' tasks
 
 ## Wireframes
+**Combat**
 ![Wireframe-Combat](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-WireFrame1.jpg)
+
+**Overworld**
 ![Wireframe-Overworld](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe2.png)
+
+**Game-loop**
 ![Wireframe-GameLoop](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe3.png)
 
 
