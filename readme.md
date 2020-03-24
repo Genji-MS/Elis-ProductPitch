@@ -1,22 +1,17 @@
 # Can Elis come outside to play
 ![Logo of the project](https://github.com/Genji-MS/Game_Website_Heroku_version/blob/master/static/Logo_shiny_mid.png)
-
 > A unique Rhythm / Action game hybrid
 
 
 ## Installing / Getting started
 
 Download from Dropbox:
+
 PC: https://www.dropbox.com/s/33wkee8n06bmytg/Elis.zip?dl=0
-```
-Download and Run the .exe
-```
+> Download and Run the .exe
 
 Android: https://www.dropbox.com/s/qmvo47zx0nubebb/Elis.apk?dl=0
-```
-how to Install an APK on Android
-https://www.lifewire.com/install-apk-on-android-4177185
-```
+> how to Install an APK on Android https://www.lifewire.com/install-apk-on-android-4177185
 
 ### Game Controler required
 The game requires a dual-analog bluetooth game controller. 
@@ -26,10 +21,12 @@ There are optional controls for playing with a PC keyboard, however a controller
 
 ### Controls
 --Overworld--
+```
 Left analog moves characters on the overworld.
 Pressing the Left or Right Bumper activates dialog.
-
+```
 --Dialog--
+```
 Pressing 'A' during dialog will advance the text and stop typing
 Pressing 'A' when the dialog has stopped typing will advance the text
 
@@ -37,20 +34,22 @@ Press UP/DOWN to select menu item
 Press 'A' to confirm your selection
 (Touch screen only)
 Dialog options can be pressed
-
+```
 --Combat--
+```
 (Default)
 Left Analog navigates the left wheel for Targeting 
 Right Analog navigates the right wheel for Actions
 
 Press the Left or Right Bumper to activate the selected skill, this includes UP/DOWN movement. and ATTACK
-
+```
 --Alternate Combat--
+```
 (enabled by turning on the setting in the overworld -- ideal for action gamers)
 Replaces the Action wheel with a simplified wheel. Movement UP/DOWN ATTACK and BLOCK will activate when moving in the specified direction.
 Left Bumper activates the LIGHT magic
 Right Bumper activates the DARK magic
-
+```
 ### Additional Settings
 On the overworld there are 4 optional settings:
 
