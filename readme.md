@@ -1,84 +1,114 @@
-Dates 3/16-3/25
+# Can Elis come outside to play
+![Logo of the project](https://github.com/Genji-MS/Game_Website_Heroku_version/blob/master/static/Logo_shiny_mid.png)
 
-**Genji Tapia:** 
-
-
-**Can Elis come outside to play 'Pitch Ready':** 
+> A unique Rhythm / Action game hybrid
 
 
-**Old Project?**
+## Installing / Getting started
 
+Download from Dropbox:
+PC: https://www.dropbox.com/s/33wkee8n06bmytg/Elis.zip?dl=0
+```
+Download and Run the .exe
+```
 
-**Solo, but has had prior colaborators?**
+Android: https://www.dropbox.com/s/qmvo47zx0nubebb/Elis.apk?dl=0
+```
+how to Install an APK on Android
+https://www.lifewire.com/install-apk-on-android-4177185
+```
 
+### Game Controler required
+The game requires a dual-analog bluetooth game controller. 
+Mapping is ideal for an XBox-one controller, however others may work.
 
-## Description
+There are optional controls for playing with a PC keyboard, however a controller is required to enter combat.
 
-**Codename 'Imaginary Friends' is a videogame inspired from a dream. Work started last summer, however some components in the game were created 1-2 years ago as a class project, some assets have been purchased, or created in colaboration with others. Since the project officially began, the game has developed from a crude prototype into a playable demo. Over spring break, the game has been played by former classmates, and one game design teacher. The current state of the game needs itteration into a playable prototype ready for pitching to potential invenstors.**
+### Controls
+--Overworld--
+Left analog moves characters on the overworld.
+Pressing the Left or Right Bumper activates dialog.
 
-**Gameplay consists of two scenes. The Overworld, where a player can traverse a map and visit key locations to 'Train' - Learn the games unique controls, 'Converse' - view the dialog engine, and how story is delivered to the player, and 'Battle' - A difficult battle intended to show off the complexities of combat, and a higher level of play that approaches mastery. The first scene transitions into the Combat scene, where a player experiences the dynamics of a unique battle system, and transitions back into the Overworld to create an endless game loop where the player is free to explore the game's potential.**
+--Dialog--
+Pressing 'A' during dialog will advance the text and stop typing
+Pressing 'A' when the dialog has stopped typing will advance the text
 
-## Challenges I Anticipate
+Press UP/DOWN to select menu item
+Press 'A' to confirm your selection
+(Touch screen only)
+Dialog options can be pressed
 
-**Time! Having the intensive divided between this project and building my MS portfolio creates a conflict of work flow**
+--Combat--
+(Default)
+Left Analog navigates the left wheel for Targeting 
+Right Analog navigates the right wheel for Actions
 
-## Skateboard
+Press the Left or Right Bumper to activate the selected skill, this includes UP/DOWN movement. and ATTACK
 
-**Integrating feedback received in the way of alternate game controlls from the one that the game currently uses. One feedback to follow-up on is to present the game with the new controlls to people who are very skilled at rhythm games, to see how they respond to the more favorable control scheme.**
+--Alternate Combat--
+(enabled by turning on the setting in the overworld -- ideal for action gamers)
+Replaces the Action wheel with a simplified wheel. Movement UP/DOWN ATTACK and BLOCK will activate when moving in the specified direction.
+Left Bumper activates the LIGHT magic
+Right Bumper activates the DARK magic
 
-## Bike
-**Implement additional game-changing spells, such as the 'BOLT' spell that will leap unto nearby enemies**
+### Additional Settings
+On the overworld there are 4 optional settings:
 
-## Car
-**Integrate the game with the Django feedback form for future gametesting** 
+PC/ANDROID:
+ XBone controler Axis mappings
+- Checked - PC
+- Unchecked - Android
 
-## Personal Achievement Goals:
+Joycon Swap:  
+ Swaps the Analog and Visual controlers 
+- Checked - Left-Targeting Right-Ability
+- Unchecked - Left-Ability Right-Targeting
 
-**Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
+Input Buffering
+ Enables Buffering a failed input for 0.3 sec which will activate at the next possible chance. Useful against 'Stun-Lock'
+ Try casting the same spell at two targets!
+- Checked - On
+- Unchecked - Off
 
-### Teammate 1
+Alt Inputs
+ Enables alternate 'Basic' control instead of the Ability Wheel
+- Checked - On
+- Unchecked - Off
 
-1. Add in the 'death/victory' delay before transitioning back to the Overworld scene
-2. Add in a 'death' animation for all player characters.
-3. Add in the themed transition which displays the games title image.
-4. Implement a different controller style where movement doesn't need to be 'confirmed' by an action
-5. Selectable option to remove 'stun lock' from the player characters, which prevents players actions unbuffered. (IE, you need to mash attack until you are able to do so.). Optionally, implement action buffering.
-6. Move on to 'Bike' tasks
+## What's inside:
 
-## Wireframes
-**Combat**
-![Wireframe-Combat](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-WireFrame1.jpg)
+- POLYGON - Nature Pack _ Synty Studios
+  https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152
 
-**Overworld**
-![Wireframe-Overworld](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe2.png)
+- Vegetation Studio Pro _ Awesome Technologies
+  https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835
 
-**Game-loop**
-![Wireframe-GameLoop](https://github.com/Genji-MS/Elis-ProductPitch/blob/master/img/Elis-Wireframe3.png)
+- Flat Kit: Cel / Toon Shading _ Dustyroom
+  https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368
 
+- TextMesh Pro _ Unity Technologies
+  https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126
 
-## Evaluation
+- Unity-2D-Destruction _ mjholtzem
+  https://github.com/mjholtzem/Unity-2D-Destruction
 
-**You must meet the following criteria in order to pass the intensive:**
+- The Spriters Resource _ Beyond the Beyond (Sprites)
+  https://www.spriters-resource.com/playstation/beyondthebeyond/
 
-- Students must get proposal approved before starting the project to pass
-- SOLO 
-    - must score an average above a 2.5 on the [rubric]
-- TEAM 
-    - Must score an average above 3 on the [rubric]
-    - Each individual completes 2 of the 3 personal achievement goals from their proposal
-- Pitch your product
+### Known Issues:
 
-[rubric]:https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit
+- Casting a spell without a target will still consume MP
+- Spending all of your MP in Elis or Shin's training stage will softlock the game (requires exiting the game)
+- Selecting a Dialog option via PC MOUSE, will cause an error to appear on the screen.
 
+### Game Website:
 
-## Approval Checklist
-- [X] If I have a team project, I wrote this proposal to represent my work and only my work
-- [X] I have completed all the necessary parts of this proposal
-- [X] I linked my proposal in the Spring Intensive Tracker
+- https://gt-imaginary-friends.herokuapp.com
 
-### Sign off
+## Licensing
 
-**Student Name:**
-> Genji Tapia / 3-16-20
-**Make School Advisor Name**
-> TBD
+No license is given.
+
+## Contact information
+
+Genji.Tapia@students.makeschool.com
